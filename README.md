@@ -1,0 +1,1 @@
+This was built for my thesis to complete my degree in Bachelor of Science in Information Technology. It was develop with React together with a MySQL database.
